@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marek
+- 👋 Hi, I’m Marek from Poland
 - 👀 I’m interested in web and application design
 - 🌱 I’m currently learning react.js, react Hooks, redux
 - 💞️ I’m looking to collaborate on in a corporation or a smaller company as a front-end developer or full stack developer.

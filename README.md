@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marek from Poland
 - 👀 I’m Front-end web Developer
 - 🌱 I’m currently learning react.js, react Hooks, redux
-- 💞️ I’m looking to collaborate on in a corporation or a smaller company as a front-end developer or full stack developer.
+- 💞️ I’m looking to collaborate on in a corporation or a smaller company as a front-end developer, JavaScript developer.
 - 📫 How to reach me: marek.samofal@gmail.com
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marek from Poland
 - 👀 I’m Front-end web Developer
-- 🌱 I’m currently learning react.js, react Hooks, redux
+- 🌱 I’m currently learning React.js, Next.js, TypeScript
 - 📫 How to reach me: marek.samofal@gmail.com
 
 <!---

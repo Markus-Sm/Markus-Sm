@@ -20,7 +20,6 @@ I build responsive, accessible interfaces and care about clean, maintainable cod
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
@@ -36,3 +35,5 @@ I build responsive, accessible interfaces and care about clean, maintainable cod
 ### 📊 GitHub Stats
 
 ![Marek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markus-Sm&show_icons=true&hide_border=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Markus-Sm&layout=compact&hide_border=true&theme=github_dark)

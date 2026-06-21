@@ -23,7 +23,6 @@ I build responsive, accessible interfaces and care about clean, maintainable cod
 
 ### 📫 Where to find me
 
-- 🌐 **CV / Resume:** [marek-samofal-resume.netlify.app](https://marek-samofal-resume.netlify.app)
 - 💼 **LinkedIn:** [linkedin.com/in/marek-samofał](https://www.linkedin.com/in/marek-samofa%C5%82-038090150/)
 - ✉️ **Email:** marek.samofal@gmail.com
 

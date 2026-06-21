@@ -32,11 +32,3 @@ I build responsive, accessible interfaces and care about clean, maintainable cod
 ### 📊 GitHub Stats
 
 ![Marek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markus-Sm&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Markus-Sm&layout=compact&hide_border=true&theme=github_dark)
-
-
-<!---
-Markus-Sm/Markus-Sm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

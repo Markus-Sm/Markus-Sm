@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marek
 
-### Frontend Developer · React.js · Next.js · TypeScript
+### Frontend Developer · React.js · Next.js
 
 I build responsive, accessible interfaces and care about clean, maintainable code and good user experience. Currently working with React.js, Next.js and TypeScript, with a solid background in HTML, CSS/Sass and JavaScript. I enjoy taking unfamiliar problems apart and solving them step by step, and I am naturally drawn to automating and optimising my own work.
 

@@ -29,11 +29,3 @@ I build responsive, accessible interfaces and care about clean, maintainable cod
 
 - 💼 **LinkedIn:** [linkedin.com/in/marek-samofał](https://www.linkedin.com/in/marek-samofa%C5%82-038090150/)
 - ✉️ **Email:** marek.samofal@gmail.com
-
----
-
-### 📊 GitHub Stats
-
-![Marek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markus-Sm&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Markus-Sm&layout=compact&hide_border=true&theme=github_dark&hide=html,css,scss)
